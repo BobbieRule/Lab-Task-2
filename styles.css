@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap");
+
+h1 {
+  font-family: "Roboto Mono", monospace;
+  font-size: 4rem;
+}
+
+.product {
+  margin: 2em;
+  padding-bottom: 0.5em;
+  border-bottom: 0.1em dashed black;
+}
